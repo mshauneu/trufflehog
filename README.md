@@ -1,7 +1,8 @@
 # Truffle Hog
 
 Searches through git repositories for secrets, digging deep into commit history and branches.
-*Note:* Files added in the first commit of a git repository don't appear to be searched, 
+
+**Note:** Files added in the first commit of a git repository don't appear to be searched, 
 see: https://github.com/dxa4481/truffleHog/issues/85
 
 ## Build
